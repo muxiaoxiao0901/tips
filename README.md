@@ -32,3 +32,6 @@ latest：安装最新版本。</br>
 -K or --key Path to ssl key file (default: key.pem)
 -r or --robots Provide a /robots.txt (whose content defaults to 'User-agent: *\nDisallow: /')
 -h or --help 打印以上列表并退出 ```
+
+### 4.flex布局</br>
+设为flex布局后，子元素的float、clear、vertical-align属性将失效。
