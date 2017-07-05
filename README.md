@@ -35,3 +35,5 @@ latest：安装最新版本。</br>
 
 ### 4.flex布局</br>
 设为flex布局后，子元素的float、clear、vertical-align属性将失效。
+### 5.Element.scrollIntoViewIfNeeded(opt_center);     
+滚动到底部软键盘遮住元素问题
